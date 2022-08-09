@@ -30,6 +30,9 @@
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 // Package upnp implements UPnP InternetGatewayDevice discovery, querying, and port mapping.
+
+// another comment
+
 package upnp
 
 import (
